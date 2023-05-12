@@ -2,6 +2,7 @@
 Project Overview Statement (POS) (Refer to: Appendix A ‘Project Overview Statement’)
 Project Definition Statement (PDS)
  Purpose
+ 
 ● This PDS provides a brief overview of CRC TUM to promote a shared understanding of
 it before a more detailed plan, schedule, and budget are prepared.
 Problem/Opportunity
@@ -18,6 +19,7 @@ consumers, we may be able to incite some effective change and reduce user’s ca
 footprint. Ideally the project (calculator + PR-campaign) will lower the carbon footprint of
 all the users combined by 500t/year.
 Project Objectives
+
 Objective 1: Creation, launch and implementation of carbon calculator.
 ● In the project, we are looking to create a fully functional carbon calculator from scratch.
 This means creating the initial syntax, stress testing the calculator, building multiple
